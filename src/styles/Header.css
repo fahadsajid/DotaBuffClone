@@ -1,0 +1,42 @@
+
+.Dotabuff
+{
+  background: #ED3B1C;
+    color: white;
+    display: inline-block;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    height: 20px;
+    margin: 0 8px 0 0;
+    padding: 6px 8px;
+    text-transform: uppercase;
+    vertical-align: top;
+    align-items: flex-start;
+    text-decoration: none;
+text-align: left;
+}
+.MainHeaderDiv{
+  background: #2e3740;
+color: white;
+
+}
+
+.HeaderItemsStyle
+{
+  margin-top: 30px;
+color: white;
+  text-decoration: none;
+}
+
+
+.HeaderItemsStyle:hover{
+  background: #2E3740;
+      color: #92bb35;
+
+}
+li {
+    display: inline;
+      padding: 8px 6px 4px 6px;
+      height: 20px;
+    margin: 10px;margin-top: 60px;
+}

@@ -1,0 +1,34 @@
+.btn-SignIn
+{
+  color: white;
+    border-radius: 0;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+    line-height: 13px;
+    padding: 9px 13px;
+    text-transform: uppercase;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: #92bb35;
+    background: rgba(10,10,10,0.15);
+    border-image: 1px solid linear-gradient(#6d8c27, #85ab30);
+    color: #92bb35 !important;
+    text-shadow: 1px 1px 0 rgba(10,10,10,0.4);
+}
+.SignInWithSteam{
+  float: right;
+margin-top: -50px;
+padding: 8px;
+  text-align: center;
+  background: #2e3740;
+  color: white;
+
+  margin-left: 150px;
+  width: 400px;
+  height: auto;
+  margin-right: 100px;
+}

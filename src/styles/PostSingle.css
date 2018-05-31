@@ -1,0 +1,26 @@
+.TableForPosts
+{
+  background-color: #2e3740;
+  height:200px;
+  width: 600px;
+  margin: 20px;
+
+}
+
+.className {
+  font-size: 20px;
+  padding: 10px;
+  align-items: center;
+  color: #C23C2A;
+}
+.classEmail{
+  font-size: 20px;
+  padding: 10px;
+  align-items: center;
+}
+.ClasssPost
+{
+  font-size: 18px;
+  column-span: all;
+  color: white;
+}

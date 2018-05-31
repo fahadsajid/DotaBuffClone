@@ -1,0 +1,43 @@
+.ActivePlayers
+{
+  float: right;
+
+padding: 8px;
+  text-align: center;
+  background: #2e3740;
+  color: white;
+
+
+
+  margin-right: 100px;
+  margin-left: 700px;
+  margin-top: 15px;
+  width: 400px;
+  height: 500px;
+
+}
+
+
+.tableRow
+{
+  background-color: #1C242D;
+  margin: 10px;
+}
+.TableSize
+{
+  width:400px;
+}
+.distance
+{
+  margin-left: 40px;
+}
+.TypeOfMatch
+{
+  margin-left: 40px;
+  color: #C23C2A !important;
+}
+.Playername
+{
+  color: #A9CF54
+
+}

@@ -1,0 +1,10 @@
+.ActivePosts
+{
+  float: left;
+  margin-left: 140px;
+  margin-top: -600px;
+  font-family: "Lucida Grande", Tahoma, Verdana, Arial, sans-serif;
+  color: #92bb35;
+  width: 600px;
+  font-size:30px;
+}
